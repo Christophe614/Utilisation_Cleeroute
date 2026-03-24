@@ -1,0 +1,28 @@
+{
+    "articles": [
+      {
+        "titre": "python debutant",
+        "contenu": "introduction au python",
+        "auteur": "Christophe",
+        "date": "2024-06-01",
+        "categorie": "programmation",
+        "tags": ["python", "initiation"]
+      },
+      {
+        "titre": "FastAPI facile",
+        "contenu": "creer une API simple",
+        "auteur": "Christophe",
+        "date": "2024-08-01",
+        "categorie": "web",
+        "tags": ["fastapi", "backend"]
+      },
+      {
+        "titre": "SQLite rapide",
+        "contenu": "Projets simples avec SQLite",
+        "auteur": "Jean",
+        "date": "2024-10-01",
+        "categorie": "Base de donnee",
+        "tags": ["sqlite", "db"]
+      }
+    ]
+  }
