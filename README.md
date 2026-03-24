@@ -13,6 +13,7 @@ _**Python3.10** pour langage cote serveur
 Projet/ |_mayapi.py(entree du projet)
         |_database.py(connexion a la base de donnees)
         |_routers.py(endpoints)
+        [_test.json (fichier de test)
 
 ##Installation
 1.Cloner le projet
